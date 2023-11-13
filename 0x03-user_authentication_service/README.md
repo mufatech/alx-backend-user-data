@@ -1,0 +1,2 @@
+User authentication service[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D##[3~[3~[C User a[3~[3~[3~[3~[3~[3~[3~[3~[3~[3~[3~[3~[3~[3~[2~uthentication service
+In the industry, you should not implement your own authentication system and use a module or framework that doing it for you (like in Python-Flask: Flask-User). Here, for the learning purpose, we will walk through each step of this mechanism to understand it by doing.
